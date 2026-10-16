@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 # arithmetic operators --> + - * / % // **
 # comparison operators --> == != < > <= >=
 # logical operatos --> and (&&) or (||) not (!)
 
+=======
+>>>>>>> upstream/main
 # Multiple conditions with logical operators
 username = "admin"
 password = "12345"
@@ -33,7 +36,11 @@ if weather == "sunny":
     else:
         print("Sunny but cold")
 else:
+<<<<<<< HEAD
     print("Not a sunny day")
 
 if weather == "sunny" and temperature > 25:
     print("Perfect day for swimming!")
+=======
+    print("Not a sunny day")
+>>>>>>> upstream/main

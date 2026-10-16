@@ -9,10 +9,13 @@
 # demo_for_basic.py
 print("=== Demo 1: Basic For Loop ===")
 
+<<<<<<< HEAD
 print(range(5)) # [0, 1, 2, 3, 4]
 print(range(1, 5)) # [1, 2, 3, 4]
 print(range(1, 5, 2)) # [1, 3]
 
+=======
+>>>>>>> upstream/main
 # Loop ผ่านตัวเลข
 print("นับจาก 1 ถึง 5:")
 for i in range(1, 6):

@@ -23,8 +23,11 @@ my_integer = 42
 my_float = 3.14
 my_boolean = False
 
+<<<<<<< HEAD
 my_string = "Boonchoo"
 
+=======
+>>>>>>> upstream/main
 # Use type() to see the data type
 print("Type of my_string:", type(my_string))
 print("Type of my_integer:", type(my_integer))
@@ -36,7 +39,11 @@ first_name = "John"
 last_name = "Doe"
 
 # Concatenate strings
+<<<<<<< HEAD
 full_name = first_name + "&&&" + last_name
+=======
+full_name = first_name + " " + last_name
+>>>>>>> upstream/main
 print("Full name:", full_name)
 
 # String length
@@ -79,6 +86,7 @@ print("a =", a, "b =", b, "c =", c)
 # Complete the following assignments:
 
 # String variable containing your favorite color
+<<<<<<< HEAD
 favorite_color = "Green"
 
 # Integer variable with the current year
@@ -89,6 +97,18 @@ favorite_number = 4.00
 
 # Boolean variable indicating if you like pizza
 likes_pizza = False
+=======
+favorite_color = 
+
+# Integer variable with the current year
+current_year = 
+
+# Float variable with your favorite number (with decimal)
+favorite_number = 
+
+# Boolean variable indicating if you like pizza
+likes_pizza = 
+>>>>>>> upstream/main
 
 # Print all variables with descriptive messages
 print("My favorite color is:", favorite_color)
